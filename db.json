@@ -1,0 +1,59 @@
+{
+ "users": [
+    {
+        "id":1,
+        "name": "Kennedy",
+        "email": "Kennedy@example.com",
+        "walkingGoal": 10000,
+        "waterIntakeGoal": 8,
+        "sleepGoal": 5,
+        "walking": 8000,
+        "waterIntake": 1,
+        "sleep": 7
+    },
+    {
+        "id":2,
+        "name": "Linet",
+        "email": "Linet@example.com",
+        "walkingGoal": 100,
+        "waterIntakeGoal": 8,
+        "sleepGoal": 20,
+        "walking": 10,
+        "waterIntake": 4,
+        "sleep": 18 
+    },
+    {
+        "id":3,
+        "name": "Maimuna",
+        "email": "Maimuna@gmail.com",
+        "walkingGoal": 8000,
+        "waterIntakeGoal": 8,
+        "sleepGoal": 8,
+        "walking": 6000,
+        "waterIntake": 7,
+        "sleep": 5
+    },
+    {
+        "id":4,
+        "name": "Maryanne",
+        "email": "Maryanne@example.com",
+        "walkingGoal": 7000,
+        "waterIntakeGoal": 8,
+        "sleepGoal": 10,
+        "walking": 5000,
+        "waterIntake": 6,
+        "sleep": 7
+    },
+    {
+        "id":5,
+        "name": "Moffat",
+        "email": "Moffat@example.com",
+        "walkingGoal": 14000,
+        "waterIntakeGoal": 9,
+        "sleepGoal": 12,
+        "walking": 4000,
+        "waterIntake": 8,
+        "sleep": 9
+    }
+     ]
+}
